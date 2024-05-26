@@ -76,12 +76,6 @@
         "name": "Mandarin",
         "content": "Mandarin but no seeds",
         "image": "/assets/imgs/products/mandarin.png",
-        "image1": "/assets/imgs/products/banana.png",
-        "image2": "/assets/imgs/products/mango.png",
-        "image3": "/assets/imgs/products/peach.png",
-        "image4": "/assets/imgs/products/pomelo.png",
-        "image5": "/assets/imgs/products/apple.png",
-        "image6": "/assets/imgs/products/lychee.png",
         "price": 1000,
         "categories_id": [1, 2, 11]
     },
