@@ -1,0 +1,115 @@
+[
+    {
+        "id": "1",
+        "name": "Banana",
+        "content": "Eating bananas from both sides",
+        "image": "/assets/imgs/products/banana.png",
+        "price": 100,
+        "categories_id": [3, 11]
+    },
+    {
+        "id": "2",
+        "name": "Mango",
+        "content": "Rice & Mangos",
+        "image": "/assets/imgs/products/mango.png",
+        "price": 200,
+        "categories_id": [2, 4, 11]
+    },
+    {
+        "id": "3",
+        "name": "Peach",
+        "content": "Peaches in Summer",
+        "image": "/assets/imgs/products/peach.png",
+        "price": 300,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "4",
+        "name": "Pomelo",
+        "content": "Pomelos, tea, just a breakfast",
+        "image": "/assets/imgs/products/pomelo.png",
+        "price": 400,
+        "categories_id": [1, 2, 7, 11]
+    },
+    {
+        "id": "5",
+        "name": "Apple",
+        "content": "Cute apple on a shelf",
+        "image": "/assets/imgs/products/apple.png",
+        "price": 500,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "6",
+        "name": "Lime",
+        "content": "Mint, Lime and Rum",
+        "image": "/assets/imgs/products/lime.png",
+        "price": 600,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "7",
+        "name": "Kiwi",
+        "content": "Kiwi without feathers",
+        "image": "/assets/imgs/products/kiwi.png",
+        "price": 700,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "8",
+        "name": "Lychee",
+        "content": "Princess Lychee",
+        "image": "/assets/imgs/products/lychee.png",
+        "price": 800,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "9",
+        "name": "Fig",
+        "content":"Three figs and a tree",
+        "image": "/assets/imgs/products/fig.png",
+        "price": 900,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "10",
+        "name": "Mandarin",
+        "content": "Mandarin but no seeds",
+        "image": "/assets/imgs/products/mandarin.png",
+        "image1": "/assets/imgs/products/banana.png",
+        "image2": "/assets/imgs/products/mango.png",
+        "image3": "/assets/imgs/products/peach.png",
+        "image4": "/assets/imgs/products/pomelo.png",
+        "image5": "/assets/imgs/products/apple.png",
+        "image6": "/assets/imgs/products/lychee.png",
+        "price": 1000,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "11",
+        "name": "Pear",
+        "content": "Red, brown or green but always Pears",
+        "image": "/assets/imgs/products/pear.png",
+        "price": 1100,
+        "categories_id": [1, 2, 11]
+    },
+    {
+        "id": "12",
+        "name": "Lemon",
+        "content": "Home made Lemonade",
+        "image": "/assets/imgs/products/lemon.png",
+        "price": 1200,
+        "categories_id": [1, 2, 11]
+    },
+
+    {
+        "id": "15",
+        "name": "Mobile",
+        "content": "Moto",
+        "image": "/assets/imgs/products/moto1.jpg",
+        "image2": "/assets/imgs/products/moto2.jpg",
+        "price": 12000,
+        "categories_id": [23]
+    }
+
+]
